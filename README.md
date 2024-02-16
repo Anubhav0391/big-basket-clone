@@ -8,11 +8,11 @@
 https://apnabasket.vercel.app/
 
 ## Feautres: 
-1. Users can sign in and sign up
-2. Fruits & Vegetable's page with filtration and sorting
-3. Search functionality according to name, brand etc
-4. Individual product page with add to cart functionality
-5. Authentication is mandatory to access the cart
+1. Users can sign in and sign up.
+2. Fruits & Vegetable's page with filtration and sorting.
+3. Search functionality according to name, brand etc.
+4. Individual product page with add to cart functionality.
+5. Responsive and user-friendly design for seamless navigation.
 
 ## Used Tech Stack:
 
